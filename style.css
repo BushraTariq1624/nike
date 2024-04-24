@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+.back{
+    background-color: #fff9f4;
+}
+body{
+    padding-top: 60px;
+}
+.org{
+    color: #ff8367;
+}
+.size{
+    font-size: 70px;
+}
+.mg{
+    margin-top: 100px;
+}
+.crdback{
+    background-color: #f1f1f1;
+}
+.card{
+    border: none;
+    border-width: 20px;
+    border-radius: 20px;
+    height: 100%;
+}
+.bkclr{
+    color: #363958;
+}
+.clr{
+    background-color: #e5e5e5;
+}
+.foot{
+    /* padding: 50px; */
+    background-color: white;
+    border-radius: 20px;
+}
+input{
+    border-radius: 3px;
+}
+ul{
+    list-style: none;
+}
